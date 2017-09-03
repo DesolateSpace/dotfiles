@@ -1,2 +1,2 @@
 # dotfiles
-Backup/Sync dotfiles
+Backup/Sync for personal dotfiles
